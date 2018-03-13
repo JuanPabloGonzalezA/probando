@@ -1,2 +1,1 @@
-for i in range(1,21):
-	print i
+print("esta es la tercera version")
