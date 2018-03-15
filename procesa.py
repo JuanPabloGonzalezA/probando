@@ -1,5 +1,6 @@
 import numpy as np
 
+
 datos=np.loadtxt('monthrg.dat')
 
 tiempo=datos[:,0]+(datos[:,1]-1)/12.0
